@@ -1,0 +1,10 @@
+debug
+Debug
+release
+Release
+*.sln
+*.user
+*.ncb
+*.suo
+lua-5.3.0
+doc
