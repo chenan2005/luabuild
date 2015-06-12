@@ -2,7 +2,6 @@ debug
 release
 debugdll
 releasedll
-*.sln
 *.user
 *.ncb
 *.suo
