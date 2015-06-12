@@ -30,10 +30,10 @@ copy debugdll\lua.exe lua-5.3.0\debugdll\
 copy debugdll\lua.pdb lua-5.3.0\debugdll\
 copy debugdll\vc80.pdb lua-5.3.0\debugdll\
 
-copy debugdll\lualib.lib lua-5.3.0\debugdll\
-copy debugdll\lualib.dll lua-5.3.0\debugdll\
-copy debugdll\lua.exe lua-5.3.0\debugdll\
-copy debugdll\lua.pdb lua-5.3.0\debugdll\
-copy debugdll\vc80.pdb lua-5.3.0\debugdll\
+copy releasedll\lualib.lib lua-5.3.0\releasedll\
+copy releasedll\lualib.dll lua-5.3.0\releasedll\
+copy releasedll\lua.exe lua-5.3.0\releasedll\
+copy releasedll\lua.pdb lua-5.3.0\releasedll\
+copy releasedll\vc80.pdb lua-5.3.0\releasedll\
 
 pause
